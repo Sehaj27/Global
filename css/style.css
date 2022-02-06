@@ -1,0 +1,197 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Josefin Sans');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+#about_heading{
+
+	font-size: 3em;
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 1em;
+
+}
+
+#about_desc{
+
+	display: block;
+	width: 70%;
+	font-weight: lighter;
+	margin: 0 auto;
+	font-size: 1.5em;
+	font-family: 'Quicksand';
+	word-spacing: 4px;
+	line-height: 40px;
+}
+
+#nav_company{
+
+	margin-left: 0;
+	font-size: 2em;
+
+}
+
+.box{
+	width: 30%;
+	height: 300px;
+	display: block;
+	background-color:white;
+	box-shadow: 0px 4px 10px 2px rgba(0,0,0,0.1);
+	
+	
+}
+
+
+.hd{
+
+	font-size: 3em;
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	float: left;
+	color: #2196F3;
+	margin-top: 2em;
+
+}
+
+.desc{
+
+	display: block;
+	width: 80%;
+	height: 200px;
+    line-height: 200px;
+	font-size: 2em;
+	padding: 20px;
+	color: white;
+	float: left;
+	font-weight: lighter;
+
+
+}
+
+._container {
+	width: 100%;
+	height: 450px;
+	display: block;
+    position: relative;
+    background-color: white;
+    
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 4em;
+    line-height: 2em;
+    color:#E3F2FD;
+
+}
+
+.bottom{
+
+	position: absolute;
+    top: 55%;
+    right: 10%;
+    font-size: 4em;
+    line-height: 2em;
+    color: #673AB7;
+
+}
+
+.left{
+
+	position: absolute;
+	top: 30%;
+	width: 40%;
+	left: 40px;
+	color: white;
+	font-size: 1.5em;
+
+}
+
+
+.right{
+
+	position: absolute;
+	top: 30%;
+	width: 60%;
+	right: 30px;
+	color: white;
+	font-size: 2em;
+	line-height: 1.2em;
+	word-spacing: 4px;
+	font-weight: lighter;
+
+}
+
+.right_button{
+
+	display: block;
+	position: absolute;
+	width: 150px;
+	height: 50px;
+	right: 10%;
+	bottom: 10%;
+	background-color: white;
+	box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+
+}
+
+.button_text{
+
+	text-align: center;
+	line-height: 50px;
+	text-transform: uppercase;
+	color: #3F51B5;
+	font-weight: bold;
+
+
+}
+
+.hd1{
+
+	text-align: center;
+	font-size: 3em;
+	margin-top: 50px;
+	color: #00BFA5;
+
+}
+
+.circle {
+    background: #AA00FF;
+    width: 100px;
+    height: 100px;
+    margin: 30px auto;
+    border-radius: 50%;
+}
+
+.box_desc{
+
+	text-align: center;
+	font-size: 1.2em;
+
+
+}
+
+.box_desc_1{
+
+	padding-top: 20px;
+	text-align: center;
+	color: rgba(0,0,0,.6);
+
+}
+
+.contact_h{
+
+	text-align: center;
+	font-size: 2em;
+
+
+
+}
